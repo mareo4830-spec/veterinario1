@@ -77,17 +77,6 @@ export default function Contact() {
                 </div>
               </div>
             </div>
-
-            {/* Badge */}
-            <div className="mt-8 pt-7 border-t border-slate-100">
-              <div className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-gradient-to-r from-pink-50 to-sky-50 border border-slate-100">
-                <Rainbow className="w-5 h-5 text-pink-400" />
-                <span className="text-sm font-bold text-slate-600">
-                  Espacio amigable con la comunidad LGBTQ+
-                </span>
-              </div>
-            </div>
-
             {/* CTA */}
             <a
               href="tel:959254222"
